@@ -17,6 +17,8 @@ Este é o meu projeto de página de links centralizada (estilo Linktree), desenv
 - Como manipular seletores CSS para criar efeitos de `:hover` sem repetição excessiva de código.
 - Importância da semântica (uso de `ul` e `li` para listas).
 - Aplicação de animações nativas do navegador para melhorar a experiência do usuário (UX).
+  
+<img width="1439" height="813" alt="image" src="https://github.com/user-attachments/assets/c81c3e29-ff76-4648-ae53-936338ffcb0a" />
 
 ---
 *Projeto desenvolvido durante o curso de HTML/CSS do app Mimo.*
