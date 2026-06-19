@@ -2,7 +2,11 @@
 
 Este é o meu projeto de página de links centralizada (estilo Linktree), desenvolvida como parte da minha jornada de aprendizado em **HTML e CSS**. O objetivo foi criar um layout limpo, responsivo e com uma identidade visual que unifica minhas redes sociais.
 
-### 🛠 Tecnologias e Conceitos Utilizados
+### 🔗 Link => https://mhenrique89.github.io/Meu-Linktree/
+
+### 🛠 Tecnologias e Conceitos Utilizados neste projeto.
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,vscode"/> </p>
+
 * **HTML5:** Estruturação semântica da página.
 * **CSS3:** Estilização, flexibilidade e design responsivo.
 * **Animações:** Implementação de `@keyframes` para o efeito de *fade-in* (entrada suave).
